@@ -253,8 +253,7 @@
 										</div>
 									</div>
 									<div class="bride-groom-infos">
-										<h2 class="font-weight-normal m-0">Supriatna</h2>
-										<span class="text-uppercase text-color-primary font-weight-semibold">Amd. Kom</span>
+										<h2 class="font-weight-normal m-0">Supriatna<span class="text-uppercase text-color-primary font-weight-semibold"> Amd. Kom</span></h2>
 										<p class="mt-4">
 											Putra dari Bapak Yayat & Ibu Kokom
 										</p>
