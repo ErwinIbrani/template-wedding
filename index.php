@@ -516,6 +516,65 @@ Kel Besar Bpk. Nuh(alm)
 								</div>
 							</div>
 
+							<div class="col-md-6 col-lg-3 mb-3">
+                            								<div class="history-item">
+                            									<a href="imgnya/preweding/foto_10.jpeg" class="text-decoration-none">
+                            										<span class="thumb-info thumb-info-lighten">
+                            											<span class="thumb-info-wrapper m-0">
+                            												<img src="imgnya/preweding/foto_10.jpeg" class="imgnya-fluid" alt="">
+                            												<span class="thumb-info-title text-uppercase font-weight-bold">
+
+                            												</span>
+                            												<span class="thumb-info-likes text-color-light">
+                            													<i class="fa fa-heart-o background-color-primary p-1"></i>
+
+                            												</span>
+                            											</span>
+                            										</span>
+                            									</a>
+                            								</div>
+                            							</div>
+
+                            							<div class="col-md-6 col-lg-3 mb-3">
+                                                        								<div class="history-item">
+                                                        									<a href="imgnya/preweding/foto_11.jpeg" class="text-decoration-none">
+                                                        										<span class="thumb-info thumb-info-lighten">
+                                                        											<span class="thumb-info-wrapper m-0">
+                                                        												<img src="imgnya/preweding/foto_11.jpeg" class="imgnya-fluid" alt="">
+                                                        												<span class="thumb-info-title text-uppercase font-weight-bold">
+
+                                                        												</span>
+                                                        												<span class="thumb-info-likes text-color-light">
+                                                        													<i class="fa fa-heart-o background-color-primary p-1"></i>
+
+                                                        												</span>
+                                                        											</span>
+                                                        										</span>
+                                                        									</a>
+                                                        								</div>
+                                                        							</div>
+
+                                                        							<div class="col-md-6 col-lg-3 mb-3">
+                                                                                    								<div class="history-item">
+                                                                                    									<a href="imgnya/preweding/foto_12.jpeg" class="text-decoration-none">
+                                                                                    										<span class="thumb-info thumb-info-lighten">
+                                                                                    											<span class="thumb-info-wrapper m-0">
+                                                                                    												<img src="imgnya/preweding/foto_12.jpeg" class="imgnya-fluid" alt="">
+                                                                                    												<span class="thumb-info-title text-uppercase font-weight-bold">
+
+                                                                                    												</span>
+                                                                                    												<span class="thumb-info-likes text-color-light">
+                                                                                    													<i class="fa fa-heart-o background-color-primary p-1"></i>
+
+                                                                                    												</span>
+                                                                                    											</span>
+                                                                                    										</span>
+                                                                                    									</a>
+                                                                                    								</div>
+                                                                                    							</div>
+
+
+
 						</div>
 						<div id="historyLoadMoreBtnWrapper" class="row align-items-center" style="min-height: 115px;">
 							<div class="col text-center">
@@ -530,19 +589,6 @@ Kel Besar Bpk. Nuh(alm)
 						</div>
 					</div>
 				</section>
-
-               <section class="wedding-countdown parallax section section-text-light section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="imgnya/waktu.jpg">
-					<div class="container">
-						<div class="row justify-content-center mt-5 mb-5 pt-1 pb-4">
-							<div class="col-lg-8">
-								<h2 class="alternative-font custom-font-size-1 pb-4" style="color:red">Waktu Menuju Hari Pernikahan</h2>
-								<div id="clock" class="text-color-light pt-3"></div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-
 
 			</div>
 		</div>
