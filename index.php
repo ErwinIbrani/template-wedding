@@ -531,6 +531,19 @@ Kel Besar Bpk. Nuh(alm)
 					</div>
 				</section>
 
+               <section class="wedding-countdown parallax section section-text-light section-parallax section-center m-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="imgnya/waktu.jpg">
+					<div class="container">
+						<div class="row justify-content-center mt-5 mb-5 pt-1 pb-4">
+							<div class="col-lg-8">
+								<h2 class="alternative-font custom-font-size-1 pb-4" style="color:red">Waktu Menuju Hari Pernikahan</h2>
+								<div id="clock" class="text-color-light pt-3"></div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+
 			</div>
 		</div>
 		<!-- Vendornya -->
