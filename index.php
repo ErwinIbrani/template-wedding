@@ -526,8 +526,6 @@ Kel Besar Bpk. Nuh(alm)
 										<div class="bounce3"></div>
 									</div>
 								</div>
-
-								<button id="historyLoadMore" type="button" class="btn btn-secondary btn-xs custom-border-radius text-3 text-color-light text-uppercase outline-none p-3 pl-5 pr-5 m-auto mb-5 mt-5">View More</button>
 							</div>
 						</div>
 					</div>
